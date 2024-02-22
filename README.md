@@ -1,3 +1,4 @@
+![imagem1](https://github.com/Joaofustinoni/alurabook/assets/155860554/546147dd-1c21-4078-9d4a-4fc8446728b7)
 <h1 align="center"> Projeto_AluraBooks :books: </h1>
 
 <p align="center">
